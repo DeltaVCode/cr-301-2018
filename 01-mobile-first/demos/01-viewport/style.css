@@ -1,0 +1,29 @@
+img {
+  max-width: 100%;
+}
+
+article {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 50px;
+  clear: both;
+  overflow: hidden;
+}
+
+article header {
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+
+article img {
+  display: block;
+}
+
+@media (min-width : 768px) {
+  .pull-left {
+    float: left;
+  }
+  .pull-right {
+    float: right;
+  }
+}

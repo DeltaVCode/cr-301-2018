@@ -1,0 +1,39 @@
+li {
+  margin-bottom: 20px;
+  color: orange;
+  font-size: 2em;
+}
+
+li a {
+  color: orange;
+}
+
+.logo {
+  color: #666;
+  background-color: #ececec;
+  margin:25px 0;
+  position:relative;
+}
+
+.logo::before {
+  margin-bottom: 20px;
+  background: red;
+  content: "hello";
+  margin-right: 10px;
+}
+
+.logo::after {
+  content: "goodbye";
+  position: absolute;
+  top: 100px;
+  right: 0;
+}
+
+.icon-home::before {
+  margin-right: 10px;
+  font-size: 300px;
+}
+
+.icon-home:hover {
+  color: blue;
+}
