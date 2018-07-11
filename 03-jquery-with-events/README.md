@@ -17,6 +17,8 @@ Class 3: jQuery and Events
 
 - Code Review
 - New Material
+  - Agile
+  - jQuery Events
 - Code Demos
 - Lab Preview
 
@@ -30,6 +32,8 @@ ABCD:
     When change/result are expected to occur
   Degree: How much change occurs (%) for how many participants (#)
 -->
+
+* Understand Agile as applied to this course
 
 * Execute event bindings with jQuery’s `$.on()` method
 
