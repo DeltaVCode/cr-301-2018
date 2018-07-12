@@ -7,7 +7,21 @@
     <link rel="stylesheet" href="styles.css">
 
     <!-- TODO: Let's put the Handlebars template here, in a <script> tag -->
+    <script id="neighborhood-template" type="text/x-handlebars-template">
+      <div>
+        <h2>{{name}}</h2>
+        <p>Part of {{city}} since {{founded}} &amp; population is {{population}}.</p>
+        {{{body}}}
+      </div>
+    </script>
 
+    <script>
+      // {{name}}   = $(something).text(neighborhood.name);
+      // {{{body}}} = $(something).html(neighborhood.body);
+
+      var t = document.getElementById('neighborhood-template');
+      console.log(t.textContent);
+    </script>
   </head>
   <body>
     <header>
