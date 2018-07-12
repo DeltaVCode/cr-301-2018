@@ -37,3 +37,12 @@ img {
 #menu1 li::After {
   content: '-Hello world';
 }
+
+.animated-box {
+  background: blue;
+  margin-top: 20px;
+  height: 150px;
+  width: 150px;
+  position: relative;
+  left: 0;
+}
