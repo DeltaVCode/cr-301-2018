@@ -13,10 +13,15 @@ Class 4: Templating
 ## Daily Plan
 <!-- Below is a template. Please delete, change, update as you see fit... -->
 - Notes:
-  - All the things are awesome!
-
+  - 1:1s or 1:2s?
 - Code Review
+  - Code Challenge: 4 different approaches!
+  - `$jqObj` naming convention
+  - jQuery selectors vs traversal
 - New Material
+  - Typography
+  - jQuery Effects
+  - Templating with Handlebars
 - Code Demos
 - Lab Preview
 
