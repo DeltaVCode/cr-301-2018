@@ -16,7 +16,7 @@ We'll not work to a schedule, but instead work for an hour or so, take a break, 
 ## Daily Plan
 <!-- Below is a template. Please delete, change, update as you see fit... -->
 - Notes:
-  - All the things are awesome!
+  - Slack `/remind`
 
 - Code Review
 - New Material
