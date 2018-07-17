@@ -121,7 +121,7 @@ In teams, students create a single page web application that demonstrates comman
 
 ##### Quizzes
 
-- Course quizzes (one per week, published on Friday afternoon to be completed over the subsequent weekend) are administered through Canvas.
+- Course quizzes (two per week, published on Monday and Wednesday, to be completed before the next quiz) are administered through Canvas.
 
 ##### One On Ones
 

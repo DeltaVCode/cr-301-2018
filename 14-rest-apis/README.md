@@ -13,8 +13,7 @@ Class 14: RESTful endpoints and External APIs
 ## Daily Plan
 <!-- Below is a template. Please delete, change, update as you see fit... -->
 - Notes:
-  - All the things are awesome!
-
+  - Review Quiz 5
 - Code Review
 - New Material
 - Code Demos

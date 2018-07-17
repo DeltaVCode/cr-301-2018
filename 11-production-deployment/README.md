@@ -13,8 +13,7 @@ Class 11: Production & Deployment
 ## Daily Plan
 <!-- Below is a template. Please delete, change, update as you see fit... -->
 - Notes:
-  - All the things are awesome!
-
+  - Review Quiz 4
 - Code Review
 - New Material
 - Code Demos

@@ -11,6 +11,7 @@ Class 15: Project Week Kick-off!
 
 **Review of the course**
 
+- Review Quiz 6
 - Think about if there are any topics you would like to review or revisit. We will open the second hour of class with those topics.
 - Where were we at the end of 201?
   <!-- TODO: links go here -->

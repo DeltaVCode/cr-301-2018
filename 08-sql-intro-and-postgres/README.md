@@ -17,8 +17,7 @@
 ## Daily Plan
 <!-- Below is a template. Please delete, change, update as you see fit... -->
 - Notes:
-  - All the things are awesome!
-
+  - Review Quiz 2 & 3
 - Code Review
 - New Material
 - Code Demos
