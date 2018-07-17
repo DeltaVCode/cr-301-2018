@@ -1,5 +1,11 @@
 console.log('Hello from server.js via nodemon!')
 
+var cowsay = require("cowsay");
+
+console.log(cowsay.say({
+	text : "Moo from DeltaV 301!"
+}));
+
 // Load Express
 
 // Instantiate Express so that we can use its functionality
