@@ -14,8 +14,8 @@ Class 9: SQL Joins & Relations
 ## Daily Plan
 <!-- Below is a template. Please delete, change, update as you see fit... -->
 - Notes:
-  - All the things are awesome!
-
+  - 1:1 today
+  - JS Meetup tonight
 - Code Review
 - New Material
 - Code Demos
@@ -35,4 +35,3 @@ ABCD:
 - Understand how objects in a database can be interrelated with foreign keys
 - Have familiarity with queries using SQL that select data from across multiple tables
 - Have familiarity with different relationships in database tables
-
