@@ -13,8 +13,8 @@ Class 10: Functional Programming
 ## Daily Plan
 <!-- Below is a template. Please delete, change, update as you see fit... -->
 - Notes:
-  - All the things are awesome!
-
+  - Finish 1:1s!
+  - Don't forget career stuff!
 - Code Review
 - New Material
 - Code Demos
