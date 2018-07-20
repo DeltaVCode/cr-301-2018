@@ -24,7 +24,6 @@ Class 10: Functional Programming
 - [Part 1 of Eric Elliott's "Composing Software" series](https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c)
 - [What is the **temporal dead zone**?](https://stackoverflow.com/questions/33198849/what-is-the-temporal-dead-zone)
 - [JavaScript Functional Programming — map, filter and reduce](https://medium.com/jsguru/javascript-functional-programming-map-filter-and-reduce-846ff9ba492d)
-- [JavaScript’s Map, Reduce, and Filter](https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter)
 
 ## Learning Objectives
 <!--
