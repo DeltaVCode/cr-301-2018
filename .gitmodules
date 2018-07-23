@@ -1,0 +1,6 @@
+[submodule "11-production-deployment/demos/Server"]
+	path = 11-production-deployment/demos/Server
+	url = https://github.com/cr-301-2018-todo-app/Server.git
+[submodule "11-production-deployment/demos/Client"]
+	path = 11-production-deployment/demos/Client
+	url = https://github.com/cr-301-2018-todo-app/Client.git
