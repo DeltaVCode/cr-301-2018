@@ -16,8 +16,8 @@ Class 12: Single Page Apps & Client-Side Routing
 ## Daily Plan
 <!-- Below is a template. Please delete, change, update as you see fit... -->
 - Notes:
-  - All the things are awesome!
-
+  - Quiz 5 due **tonight**
+  - Discuss: Project Ideas
 - Code Review
 - New Material
 - Code Demos
