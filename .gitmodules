@@ -10,3 +10,9 @@
 [submodule "12-client-side-routing/demos/Client"]
 	path = 12-client-side-routing/demos/Client
 	url = https://github.com/cr-301-2018-todo-app/Client.git
+[submodule "13-middleware/demos/Server"]
+	path = 13-middleware/demos/Server
+	url = https://github.com/cr-301-2018-todo-app/Server.git
+[submodule "13-middleware/demos/Client"]
+	path = 13-middleware/demos/Client
+	url = https://github.com/cr-301-2018-todo-app/Client.git
