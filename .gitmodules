@@ -16,3 +16,12 @@
 [submodule "13-middleware/demos/Client"]
 	path = 13-middleware/demos/Client
 	url = https://github.com/cr-301-2018-todo-app/Client.git
+[submodule "14-rest-apis/demos/Server"]
+	path = 14-rest-apis/demos/Server
+	url = https://github.com/cr-301-2018-todo-app/Server.git
+[submodule "14-rest-apis/demos/Client"]
+	path = 14-rest-apis/demos/Client
+	url = https://github.com/cr-301-2018-todo-app/Client.git
+[submodule "14-rest-apis/demos/github-api"]
+	path = 14-rest-apis/demos/github-api
+	url = https://github.com/DeltaVCode/cr-301-2018-demo-14-github-api.git
